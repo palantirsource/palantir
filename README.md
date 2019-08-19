@@ -1,2 +1,2 @@
-# palantir
+# Palantir
 Fuente para los archivos de palantir
